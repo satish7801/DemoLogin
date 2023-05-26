@@ -1,0 +1,91 @@
+﻿@using DemoLogin.ViewModel
+@model BasePagination<SkillModel>
+
+
+@{
+    if (Model.TotalCount != 0)
+    {     
+        <div class="card-part  container-lg container-md container-sm container-custom p-0">
+            <div class="row ">
+                <nav aria-label="Page navigation example" class=" story-pagination bg-none">
+                    <ul class="pagination mx-auto" id="pagination1">
+                        @if (Model.TotalCount > 1)
+                        {
+
+                            <li class="page-item disabled" id="page-prev1" onclick="Skillpagination(1)">
+                                <a class="page-link" aria-label="Previous">
+                                    <span aria-hidden="true">&laquo;</span>
+                                </a>
+                            </li>
+
+                            <li class="page-item active" id="page-item"
+                        onclick="Skillpagination( 1)">
+                                <a class="page-link" aria-label="Next">
+                                    <span aria-hidden="true">1</span>
+                                </a>
+                            </li>
+
+                            for (int i = 0; i < Model.TotalCount - 2; i++)
+                            {
+                                int num = @i + 2;
+                                <li class="page-item" id="page-item" 
+                                onclick="Skillpagination( @num);active(this)">
+                                    <a class="page-link" aria-label="Next">
+                                        <span aria-hidden="true">@num</span>
+                                    </a>
+                                </li>
+                            }
+
+                            <li class="page-item" id="page-item"
+                            onclick="Skillpagination( @Model.TotalCount)">
+                                <a class="page-link" aria-label="Next">
+                                    <span aria-hidden="true">@Model.TotalCount</span>
+                                </a>
+                            </li>
+
+
+                            <li class="page-item" id="page-next2"
+                        onclick="Skillpagination( @Model.TotalCount)">
+                                <a class="page-link" aria-label="Next">
+                                    <span aria-hidden="true">&raquo;</span>
+                                </a>
+                            </li>
+
+                        }
+                        else
+                        {
+                            <li class="page-item disabled">
+                                <a class="page-link" aria-label="Previous">
+                                    <span aria-hidden="true">&laquo;</span>
+                                </a>
+                            </li>
+                            <li class="page-item disabled">
+                                <a class="page-link" aria-label="Previous">
+                                    <span aria-hidden="true">&lt;</span>
+                                </a>
+                            </li>
+                            <li class="page-item active" id="page-item" onclick="Skillpagination( 1)">
+                                <a class="page-link" aria-label="Previous">
+                                    <span aria-hidden="true">1</span>
+                                </a>
+                            </li>
+                            <li class="page-item disabled">
+                                <a class="page-link " aria-label="Next">
+                                    <span aria-hidden="true">&gt;</span>
+                                </a>
+                            </li>
+
+                            <li class="page-item disabled">
+                                <a class="page-link " aria-label="Next">
+                                    <span aria-hidden="true">&raquo;</span>
+                                </a>
+                            </li>
+                        }
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    }
+
+}
+

@@ -1,0 +1,14 @@
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.DTO\bin\Debug\net6.0\DemoLogin.DTO.deps.json
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.DTO\bin\Debug\net6.0\DemoLogin.DTO.runtimeconfig.json
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.DTO\bin\Debug\net6.0\DemoLogin.DTO.dll
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.DTO\bin\Debug\net6.0\ref\DemoLogin.DTO.dll
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.DTO\bin\Debug\net6.0\DemoLogin.DTO.pdb
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.DTO\obj\Debug\net6.0\DemoLogin.DTO.csproj.AssemblyReference.cache
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.DTO\obj\Debug\net6.0\DemoLogin.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.DTO\obj\Debug\net6.0\DemoLogin.DTO.AssemblyInfoInputs.cache
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.DTO\obj\Debug\net6.0\DemoLogin.DTO.AssemblyInfo.cs
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.DTO\obj\Debug\net6.0\DemoLogin.DTO.csproj.CoreCompileInputs.cache
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.DTO\obj\Debug\net6.0\DemoLogin.DTO.dll
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.DTO\obj\Debug\net6.0\ref\DemoLogin.DTO.dll
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.DTO\obj\Debug\net6.0\DemoLogin.DTO.pdb
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.DTO\obj\Debug\net6.0\DemoLogin.DTO.genruntimeconfig.cache

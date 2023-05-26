@@ -1,0 +1,95 @@
+html {
+  font-size: 14px;
+}
+*:active{
+    background-color: none;
+    border-color: none;
+    color: none;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+
+body {
+    margin-bottom: 60px;
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
+
+form {
+    width: 100%;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15rem;
+    padding: 30px;
+    border: 2px solid #d1a9e5;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.45);
+    box-shadow: 0 0 170px 1px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(15px);
+}
+
+footer {
+    background: #DAE2F8;
+}
+
+label {
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+input {
+    border: 1px solid black;
+    border-radius: 30px;
+}
+
+.btn {
+    margin-top: 20px;
+    background-color: #d1a9e5;
+    border-radius: 30px;
+    color: black;
+    width: 100%;
+}
+
+.btn:hover{
+    background-color: black;
+    color: white;
+}
+.form-control:focus {
+    border-color: #edc2ec;
+    box-shadow: 0 0 0 0.25rem rgb(209 169 229);
+}
+
+.mission-save {
+    background: none;
+    border: 2px solid #F88634;
+    padding: 5px 20px;
+    border-radius: 24px;
+    color: #F88634;
+    font-family: 'Noto Sans regular', sans-serif;
+    font-size: 17px;
+}
+
+.cancel-popup {
+    color: #757575;
+    border-color: #757575;
+}
+
+.mission-save:hover {
+    background-color: #F88634;
+    color: white;
+}
+
+.cancel-popup:hover {
+    color: white;
+    background-color: #757575;
+}

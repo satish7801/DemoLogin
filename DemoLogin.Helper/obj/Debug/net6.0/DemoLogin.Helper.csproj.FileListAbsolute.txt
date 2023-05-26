@@ -1,0 +1,15 @@
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Helper\bin\Debug\net6.0\DemoLogin.Helper.deps.json
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Helper\bin\Debug\net6.0\DemoLogin.Helper.dll
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Helper\bin\Debug\net6.0\ref\DemoLogin.Helper.dll
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Helper\bin\Debug\net6.0\DemoLogin.Helper.pdb
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Helper\bin\Debug\net6.0\DemoLogin.DTO.dll
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Helper\bin\Debug\net6.0\DemoLogin.DTO.pdb
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Helper\obj\Debug\net6.0\DemoLogin.Helper.csproj.AssemblyReference.cache
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Helper\obj\Debug\net6.0\DemoLogin.Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Helper\obj\Debug\net6.0\DemoLogin.Helper.AssemblyInfoInputs.cache
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Helper\obj\Debug\net6.0\DemoLogin.Helper.AssemblyInfo.cs
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Helper\obj\Debug\net6.0\DemoLogin.Helper.csproj.CoreCompileInputs.cache
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Helper\obj\Debug\net6.0\DemoLogin.Helper.csproj.CopyComplete
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Helper\obj\Debug\net6.0\DemoLogin.Helper.dll
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Helper\obj\Debug\net6.0\ref\DemoLogin.Helper.dll
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Helper\obj\Debug\net6.0\DemoLogin.Helper.pdb

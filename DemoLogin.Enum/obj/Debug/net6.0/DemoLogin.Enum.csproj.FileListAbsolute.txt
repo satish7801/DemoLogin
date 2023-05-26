@@ -1,0 +1,14 @@
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Enum\bin\Debug\net6.0\DemoLogin.Enum.deps.json
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Enum\bin\Debug\net6.0\DemoLogin.Enum.runtimeconfig.json
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Enum\bin\Debug\net6.0\DemoLogin.Enum.dll
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Enum\bin\Debug\net6.0\ref\DemoLogin.Enum.dll
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Enum\bin\Debug\net6.0\DemoLogin.Enum.pdb
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Enum\obj\Debug\net6.0\DemoLogin.Enum.csproj.AssemblyReference.cache
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Enum\obj\Debug\net6.0\DemoLogin.Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Enum\obj\Debug\net6.0\DemoLogin.Enum.AssemblyInfoInputs.cache
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Enum\obj\Debug\net6.0\DemoLogin.Enum.AssemblyInfo.cs
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Enum\obj\Debug\net6.0\DemoLogin.Enum.csproj.CoreCompileInputs.cache
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Enum\obj\Debug\net6.0\DemoLogin.Enum.dll
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Enum\obj\Debug\net6.0\ref\DemoLogin.Enum.dll
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Enum\obj\Debug\net6.0\DemoLogin.Enum.pdb
+D:\Tatva work\DemoLogin\DemoLogin\DemoLogin.Enum\obj\Debug\net6.0\DemoLogin.Enum.genruntimeconfig.cache

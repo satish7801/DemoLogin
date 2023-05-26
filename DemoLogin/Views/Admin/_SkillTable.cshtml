@@ -1,0 +1,18 @@
+﻿@using DemoLogin.ViewModel
+@model List<SkillModel>
+
+@for(var i = 0; i < @Model!.Count(); i++)
+        {
+        //@Skill =  @Model.Data[i]!.IsActive == true ? "Active" : "NotActive";
+        <tr id="Skill@(Model![i].Id)" >
+            <td>@Model![i].Id</td>
+            <td id="SkillName@(Model![i].Id)" >@Model[i].SkillName</td>
+            <td id="SkillStatus@(Model![i].Id)">@Model[i]!.IsActive</td>
+            <td>
+                <img onclick="EditSkill(@Model[i].Id)" data-bs-toggle="modal" data-bs-target="#Edit-skill-Modal"
+                src="~/assets/edit.png" style="width: 25px">
+                <img onclick="DeleteSkill(@Model[i].Id)" data-bs-toggle="modal" data-bs-target="#Delete-Admin-Panel" 
+                src="~/assets/bin.png" style="width: 25px">
+            </td>
+        </tr>
+        }

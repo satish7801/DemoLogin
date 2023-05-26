@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoLogin", "DemoLogin\DemoLogin.csproj", "{0D8ED98A-1C8C-4B8E-93EE-5BAA85A10275}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoLogin.Models", "DemoLogin.Models\DemoLogin.Models.csproj", "{3A589485-418C-48DF-BE71-4D1EE999DDCE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoLogin.Repository", "DemoLogin.Repository\DemoLogin.Repository.csproj", "{556C7073-ED49-4A0C-BD3D-AC668703DC25}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoLogin.Service", "DemoLogin.Service\DemoLogin.Service.csproj", "{6DB3E983-58F0-4E3D-A794-92B4717E96FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoLogin.DTO", "DemoLogin.DTO\DemoLogin.DTO.csproj", "{7B854A01-2024-47DE-A2F3-39AE6975F836}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoLogin.Enum", "DemoLogin.Enum\DemoLogin.Enum.csproj", "{575DFDFC-89B8-4705-8DC6-2A6D95580374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLogin.Helper", "DemoLogin.Helper\DemoLogin.Helper.csproj", "{58A6DFD3-C4DC-480F-AE25-3B431500D1F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D8ED98A-1C8C-4B8E-93EE-5BAA85A10275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8ED98A-1C8C-4B8E-93EE-5BAA85A10275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8ED98A-1C8C-4B8E-93EE-5BAA85A10275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8ED98A-1C8C-4B8E-93EE-5BAA85A10275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A589485-418C-48DF-BE71-4D1EE999DDCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A589485-418C-48DF-BE71-4D1EE999DDCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A589485-418C-48DF-BE71-4D1EE999DDCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A589485-418C-48DF-BE71-4D1EE999DDCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556C7073-ED49-4A0C-BD3D-AC668703DC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556C7073-ED49-4A0C-BD3D-AC668703DC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556C7073-ED49-4A0C-BD3D-AC668703DC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556C7073-ED49-4A0C-BD3D-AC668703DC25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB3E983-58F0-4E3D-A794-92B4717E96FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB3E983-58F0-4E3D-A794-92B4717E96FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB3E983-58F0-4E3D-A794-92B4717E96FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB3E983-58F0-4E3D-A794-92B4717E96FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B854A01-2024-47DE-A2F3-39AE6975F836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B854A01-2024-47DE-A2F3-39AE6975F836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B854A01-2024-47DE-A2F3-39AE6975F836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B854A01-2024-47DE-A2F3-39AE6975F836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{575DFDFC-89B8-4705-8DC6-2A6D95580374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575DFDFC-89B8-4705-8DC6-2A6D95580374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575DFDFC-89B8-4705-8DC6-2A6D95580374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575DFDFC-89B8-4705-8DC6-2A6D95580374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A6DFD3-C4DC-480F-AE25-3B431500D1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A6DFD3-C4DC-480F-AE25-3B431500D1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A6DFD3-C4DC-480F-AE25-3B431500D1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A6DFD3-C4DC-480F-AE25-3B431500D1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61896176-369D-4065-9D94-AAD55CE84F72}
+	EndGlobalSection
+EndGlobal
